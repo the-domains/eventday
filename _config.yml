@@ -1,0 +1,28 @@
+name: eventday
+favicon: null
+layout_spectrum: 0.6039294817019254
+typography_spectrum: 0.0009715310297906399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.49847139208577573
+  lightness: 0.213554939487949
+  saturation: 0.38509917771443725
+  rhythmicContrast: 0.16041484475135803
+purpose: []
